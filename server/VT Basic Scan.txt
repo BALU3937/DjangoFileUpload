@@ -1,0 +1,64 @@
+[*] C:\Users\pbs99\Desktop\django_file_upload1\Django File Upload\server\media\2018_04_30 21_34_35.exe [0a4f75d3e843352b88b62ecfb28ecb70] is malicious.
+
+
+[*] Malware Hit Count 25/67
+[*] MD5 Value = 0a4f75d3e843352b88b62ecfb28ecb70
+[*] Sha1 Value = 4538db3015043ea1fce48dd314e51263bb891b47
+[*] Sha256 Value = 4057cd2198f50a948a031d8c5496c82113bd63323ddede70d4cbf2b335b4e15a
+
+[*] C:\Users\pbs99\Desktop\django_file_upload1\Django File Upload\server\media\2018_04_30 22_09_03.exe [0a4f75d3e843352b88b62ecfb28ecb70] is malicious.
+
+
+[*] Malware Hit Count 25/67
+[*] MD5 Value = 0a4f75d3e843352b88b62ecfb28ecb70
+[*] Sha1 Value = 4538db3015043ea1fce48dd314e51263bb891b47
+[*] Sha256 Value = 4057cd2198f50a948a031d8c5496c82113bd63323ddede70d4cbf2b335b4e15a
+
+[*] C:\Users\pbs99\Desktop\django_file_upload1\Django File Upload\server\media\2018_04_30 22_10_09.exe [0a4f75d3e843352b88b62ecfb28ecb70] is malicious.
+
+
+[*] Malware Hit Count 25/67
+[*] MD5 Value = 0a4f75d3e843352b88b62ecfb28ecb70
+[*] Sha1 Value = 4538db3015043ea1fce48dd314e51263bb891b47
+[*] Sha256 Value = 4057cd2198f50a948a031d8c5496c82113bd63323ddede70d4cbf2b335b4e15a
+
+[*] C:\Users\pbs99\Desktop\django_file_upload1\Django File Upload\server\media\2018_04_30 22_11_25.exe [0a4f75d3e843352b88b62ecfb28ecb70] is malicious.
+
+
+[*] Malware Hit Count 25/67
+[*] MD5 Value = 0a4f75d3e843352b88b62ecfb28ecb70
+[*] Sha1 Value = 4538db3015043ea1fce48dd314e51263bb891b47
+[*] Sha256 Value = 4057cd2198f50a948a031d8c5496c82113bd63323ddede70d4cbf2b335b4e15a
+
+[*] C:\Users\pbs99\Desktop\django_file_upload1\Django File Upload\server\media\2018_04_30 22_12_25.exe [0a4f75d3e843352b88b62ecfb28ecb70] is malicious.
+
+
+[*] Malware Hit Count 25/67
+[*] MD5 Value = 0a4f75d3e843352b88b62ecfb28ecb70
+[*] Sha1 Value = 4538db3015043ea1fce48dd314e51263bb891b47
+[*] Sha256 Value = 4057cd2198f50a948a031d8c5496c82113bd63323ddede70d4cbf2b335b4e15a
+
+[*] C:\Users\pbs99\Desktop\django_file_upload1\Django File Upload\server\media\2018_04_30 22_12_43.exe [0a4f75d3e843352b88b62ecfb28ecb70] is malicious.
+
+
+[*] Malware Hit Count 25/67
+[*] MD5 Value = 0a4f75d3e843352b88b62ecfb28ecb70
+[*] Sha1 Value = 4538db3015043ea1fce48dd314e51263bb891b47
+[*] Sha256 Value = 4057cd2198f50a948a031d8c5496c82113bd63323ddede70d4cbf2b335b4e15a
+
+[*] C:\Users\pbs99\Desktop\django_file_upload1\Django File Upload\server\media\2018_04_30 22_15_10.exe [0a4f75d3e843352b88b62ecfb28ecb70] is malicious.
+
+
+[*] Malware Hit Count 25/67
+[*] MD5 Value = 0a4f75d3e843352b88b62ecfb28ecb70
+[*] Sha1 Value = 4538db3015043ea1fce48dd314e51263bb891b47
+[*] Sha256 Value = 4057cd2198f50a948a031d8c5496c82113bd63323ddede70d4cbf2b335b4e15a
+
+[*] C:\Users\pbs99\Desktop\django_file_upload1\Django File Upload\server\media\2018_05_01 04_12_37.exe [0a4f75d3e843352b88b62ecfb28ecb70] is malicious.
+
+
+[*] Malware Hit Count 25/67
+[*] MD5 Value = 0a4f75d3e843352b88b62ecfb28ecb70
+[*] Sha1 Value = 4538db3015043ea1fce48dd314e51263bb891b47
+[*] Sha256 Value = 4057cd2198f50a948a031d8c5496c82113bd63323ddede70d4cbf2b335b4e15a
+
